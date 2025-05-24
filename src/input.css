@@ -15,10 +15,13 @@
  --color-mhover: #f6b058; 
  --color-h1: #333333; 
  --color-sectionColor: #F9F9FC; 
+ --color-p: #121212; 
+
   /* color End  */
 
   /* letter spacing  */
   --tracking-letterS: 2px; 
+  --tracking-letterSm: 1px; 
     /* letter spacing  */
 }
 

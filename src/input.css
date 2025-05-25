@@ -6,23 +6,20 @@
   /* Witdh End  */
 
   /* font Start  */
-   --font-pop: "Poppins", "sans-serif";
-   --font-Playwrite: "Playwrite IT Moderna", "sans-serif";
+  --font-pop: "Poppins", "sans-serif";
+  --font-Playwrite: "Playwrite IT Moderna", "sans-serif";
   /* font End  */
 
-    /* color Start  */
- --color-mcolor: #5E3BEE; 
- --color-mhover: #f6b058; 
- --color-h1: #333333; 
- --color-sectionColor: #F9F9FC; 
- --color-p: #121212; 
-
+  /* color Start  */
+  --color-mcolor: #5e3bee;
+  --color-mhover: #f6b058;
+  --color-h1: #333333;
+  --color-sectionColor: #f9f9fc;
+  --color-p: #121212;
   /* color End  */
 
   /* letter spacing  */
-  --tracking-letterS: 2px; 
-  --tracking-letterSm: 1px; 
-    /* letter spacing  */
+  --tracking-letterS: 2px;
+  --tracking-letterSm: 1px;
+  /* letter spacing  */
 }
-
-
